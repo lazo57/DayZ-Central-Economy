@@ -235,9 +235,9 @@
         </children>
     </event>
     <event name="InfectedArmy">
-        <nominal>50</nominal>
-        <min>25</min>
-        <max>250</max>
+        <nominal>200</nominal>
+        <min>100</min>
+        <max>300</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -258,9 +258,9 @@
         </children>
     </event>
     <event name="InfectedArmyConvoy">
-        <nominal>50</nominal>
-        <min>25</min>
-        <max>250</max>
+        <nominal>200</nominal>
+        <min>100</min>
+        <max>300</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -278,9 +278,9 @@
         </children>
     </event>
     <event name="InfectedArmyHard">
-        <nominal>50</nominal>
-        <min>25</min>
-        <max>250</max>
+        <nominal>200</nominal>
+        <min>100</min>
+        <max>300</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -303,9 +303,9 @@
         </children>
     </event>
     <event name="InfectedCity">
-        <nominal>50</nominal>
-        <min>25</min>
-        <max>250</max>
+        <nominal>200</nominal>
+        <min>100</min>
+        <max>300</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -402,9 +402,9 @@
         </children>
     </event>
     <event name="InfectedIndustrial">
-        <nominal>50</nominal>
-        <min>25</min>
-        <max>100</max>
+        <nominal>200</nominal>
+        <min>100</min>
+        <max>300</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -444,9 +444,9 @@
         </children>
     </event>
     <event name="InfectedMedic">
-        <nominal>50</nominal>
-        <min>25</min>
-        <max>100</max>
+        <nominal>200</nominal>
+        <min>100</min>
+        <max>300</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -473,9 +473,9 @@
         </children>
     </event>
     <event name="InfectedNBC">
-        <nominal>50</nominal>
-        <min>25</min>
-        <max>250</max>
+        <nominal>200</nominal>
+        <min>100</min>
+        <max>300</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -505,9 +505,9 @@
         <children/>
     </event>
     <event name="InfectedPolice">
-        <nominal>50</nominal>
-        <min>25</min>
-        <max>100</max>
+        <nominal>200</nominal>
+        <min>100</min>
+        <max>300</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -647,9 +647,9 @@
         </children>
     </event>
     <event name="InfectedVillage">
-        <nominal>50</nominal>
-        <min>25</min>
-        <max>100</max>
+        <nominal>200</nominal>
+        <min>100</min>
+        <max>300</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
